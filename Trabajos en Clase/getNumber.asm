@@ -1,5 +1,5 @@
 ;Procedimiento que captura solo numeros en formato ascii y los guardad en una cadena.
-;Recibe en bx apuntador a cadena donde se guardará los datos capturados.
+;Recibe en dx apuntador a cadena donde se guardará los datos capturados.
 
 
 MODEL small
