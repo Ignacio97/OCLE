@@ -1,0 +1,10 @@
+TC.zip son lo son archivos necesarios para la compilacion de esta practica.
+
+Paso 1 : Descomprimir el TC.zip.
+Paso 2 : Ubicar los archivos a compilar en el mismo directorio donde se encuentre los 
+	 archivos extraidos de TC.zip
+Paso 3 : Ejecutar el siguiente comando
+
+	"tcc -ms -f- ejemplo.c ejemplo.asm" 
+Paso 4 : Ejecutar el .exe generado.
+
